@@ -16,8 +16,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("我是一个兵....");
         System.out.println("我是一个兵....");
 
-
-        System.out.println("爱上来得及==========");
         System.out.println("爱上来得及==========");
         System.out.println("爱上来得及==========");
         System.out.println("爱上来得及==========");
